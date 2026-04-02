@@ -5,7 +5,7 @@
   
 ## Introduction
 
-I see a perfect opportunity to contribute on the Google Lighthouse an industry-standard tool by addressing Issue #15877. This issue concerns the lack of visual feedback, specifically the inability for a user to click on timeline images to open the full-size images.
+I see a perfect opportunity to contribute on the Google Lighthouse an industry-standard tool by addressing Issue [#15877](https://github.com/GoogleChrome/lighthouse/issues/15877). This issue concerns the lack of visual feedback, specifically the inability for a user to click on timeline images to open the full-size images.
 
   
 
