@@ -53,18 +53,18 @@ When examining repositories on GitHub, I was genuinely surprised by the rigorous
 
 ## BIBLIOGRAPHY
 
-1.  Facebook Engineering. (2015, June 26). \*Fighting spam with Haskell\*. Meta Engineering. \[[https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/\](https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/)](https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/]\(https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/\)) 
+1.  Facebook Engineering. (2015, June 26). **Fighting spam with Haskell**. Meta Engineering. \[[https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/\](https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/)](https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/]\(https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/\)) 
     
-2.  Haskell.org. (n.d.-a). \*Haskell in industry\*. The Haskell Programming Language Wiki. \[[https://wiki.haskell.org/Haskell\_in\_industry\](https://wiki.haskell.org/Haskell\_in\_industry)](https://wiki.haskell.org/Haskell_in_industry]\(https://wiki.haskell.org/Haskell_in_industry\)) 
+2.  Haskell.org. (n.d.-a). **Haskell in industry**. The Haskell Programming Language Wiki. \[[https://wiki.haskell.org/Haskell\_in\_industry\](https://wiki.haskell.org/Haskell\_in\_industry)](https://wiki.haskell.org/Haskell_in_industry]\(https://wiki.haskell.org/Haskell_in_industry\)) 
     
-3.  Haskell.org. (n.d.-b). \*The Haskell programming language wiki\*. \[[https://wiki.haskell.org/\](https://wiki.haskell.org/)](https://wiki.haskell.org/]\(https://wiki.haskell.org/\)) 
+3.  Haskell.org. (n.d.-b). **The Haskell programming language wiki**. \[[https://wiki.haskell.org/\](https://wiki.haskell.org/)](https://wiki.haskell.org/]\(https://wiki.haskell.org/\)) 
     
-4.  Lipovača, M. (2011). \*Learn You a Haskell for great good! A beginner's guide\*. No Starch Press.
+4.  Lipovača, M. (2011). **Learn You a Haskell for great good! A beginner's guide**. No Starch Press.
     
-5.  Mitchell, N. (n.d.). \*Hoogle\*. Haskell.org. \[[https://hoogle.haskell.org/\](https://hoogle.haskell.org/)](https://hoogle.haskell.org/]\(https://hoogle.haskell.org/\))
+5.  Mitchell, N. (n.d.). **Hoogle**. Haskell.org. \[[https://hoogle.haskell.org/\](https://hoogle.haskell.org/)](https://hoogle.haskell.org/]\(https://hoogle.haskell.org/\))
     
-6.  GitHub. (n.d.). \*About READMEs\*. GitHub Docs. \[[https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes\](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes]\(https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes\)) 
+6.  GitHub. (n.d.). **About READMEs**. GitHub Docs. \[[https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes\](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes]\(https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes\)) 
     
-7.  Interaction Design Foundation. (n.d.). \*What is User Experience (UX) Design?\* \[[https://www.interaction-design.org/literature/topics/ux-design\](https://www.interaction-design.org/literature/topics/ux-design)](https://www.interaction-design.org/literature/topics/ux-design]\(https://www.interaction-design.org/literature/topics/ux-design\)) 
+7.  Interaction Design Foundation. (n.d.). **What is User Experience (UX) Design?** \[[https://www.interaction-design.org/literature/topics/ux-design\](https://www.interaction-design.org/literature/topics/ux-design)](https://www.interaction-design.org/literature/topics/ux-design]\(https://www.interaction-design.org/literature/topics/ux-design\)) 
     
-8.  Python Software Foundation. (n.d.). \*What is Python used for?\* Python.org. \[[https://www.python.org/about/apps/\](https://www.python.org/about/apps/)](https://www.python.org/about/apps/]\(https://www.python.org/about/apps/\))**
+8.  Python Software Foundation. (n.d.). **What is Python used for?** Python.org. \[[https://www.python.org/about/apps/\](https://www.python.org/about/apps/)](https://www.python.org/about/apps/]\(https://www.python.org/about/apps/\))**
