@@ -1,5 +1,3 @@
-**
-
 #WEEK 9 - DESIGN PATTERNS
 
 ##RESEARCH ON DESIGN PATTERNS
@@ -46,6 +44,3 @@ My contribution will focus on enhancing this visual feedback by implementing a h
 2.  Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). \*Design patterns: Elements of reusable object-oriented software\*. Addison-Wesley.
     
 3.  Shalloway, A., & Trott, J. R. (2001). \*Design patterns explained: A new perspective on object-oriented design\*. Addison-Wesley Professional.
-    
-
-**
