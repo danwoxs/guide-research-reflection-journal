@@ -1,6 +1,6 @@
-**WEEK 8 - FUNCTIONAL USER REQUIREMENTS
+# WEEK 8 - FUNCTIONAL USER REQUIREMENTS
 
-RESEARCH A NEW LANGUAGE
+## RESEARCH A NEW LANGUAGE
 
 Haskell is a general-purpose, statically typed, functional programming language, used on the server-side of internet applications, named after Haskel B. Curry. It utilizes functions and algebraic data types offering concurrency and safety. The GHC is the de-facto compiler for the language. “Lazy” is a key feature of Haskell because functions do not evaluate their argument.
 
@@ -12,11 +12,11 @@ When it comes to actually learning Haskell, the most highly recommended starting
 
 Finally, the official Haskell Wiki provides a wealth of community-driven guides that are perfect for bridging the gap between beginner exercises and real-world application development.
 
-REFLECT ON MATTERMOST NEW LANGUAGE RESPONSES
+## REFLECT ON MATTERMOST NEW LANGUAGE RESPONSES
 
 The discussed programming languages serve diverse specialized roles: Haskell offers a secure, lazy-evaluated functional approach for server-side and document workflow applications; Processing enables artists to create generative visual art and interactive physical computing projects; and Lua provides a high-performance, flexible scripting solution primarily for game development and embedded systems.
 
-WRITE A USER STORY
+## WRITE A USER STORY
 
 As a frequent traveler who uses the Trip Advisor app, I want to receive personalized destination and activity recommendations based on my past searches and saved locations, so that I can easily discover new vacation spots without spending hours researching from scratch.
 
@@ -28,7 +28,7 @@ Three acceptance criteria:
 
 3\. Refresh and Dismissal: Users must have the option to reject a suggestion by selecting a "Not Interested" or "X" button; doing so should prompt an immediate replacement with a different recommendation and a corresponding adjustment to the user's preference profile.
 
-STAR GITHUB TOPICS AND REPOSITORIES OF INTEREST
+## STAR GITHUB TOPICS AND REPOSITORIES OF INTEREST
 
 While exploring GitHub repositories and topics, I identified several trending items, including PlayCanvas, OPNsense, Tailwind Labs, and Prometheus-operating. Based on the topics I had previously engaged with, React Native was suggested to me, alongside various learning resources and event promotions.
 
@@ -43,7 +43,7 @@ My primary areas of interest currently include:
 
 I also noted that TimesFM, Frontier Voice AI, and Claude Code are presently trending. As a result of these selections, the Explore tab now displays a more tailored selection of related items.
 
-FOLLOW-UP QUESTIONS AND REFLECTIONS
+## FOLLOW-UP QUESTIONS AND REFLECTIONS
 
 Reflecting on the first activity, the most fascinating takeaway from researching and reading peer posts was how deeply a programming language's paradigm dictates its real-world application; for instance, seeing how strict, functional languages contrast with the flexible, event-driven block logic we used in mobile platform development (MIT App). 
 
@@ -51,7 +51,7 @@ Moving forward, Python is my strongest second choice for a language to explore s
 
 When examining repositories on GitHub, I was genuinely surprised by the rigorous standard of non-code projects that featured extensive README files, clear roadmaps, and welcoming contribution guidelines. Across the repositories I found myself starring particularly those related to policies and awesome lists.
 
-BIBLIOGRAPHY
+## BIBLIOGRAPHY
 
 1.  Facebook Engineering. (2015, June 26). \*Fighting spam with Haskell\*. Meta Engineering. \[[https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/\](https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/)](https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/]\(https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/\)) 
     
