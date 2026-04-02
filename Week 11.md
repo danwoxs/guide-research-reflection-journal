@@ -11,8 +11,8 @@ Encapsulation shows up most clearly in the Singleton pattern. The TaskDatabase c
 This keeps data logic contained in one place. 
 
 For example:
-
-\`class TaskDatabase {
+```js
+class TaskDatabase {
 
   #tasks = \[\]; // private field
 
@@ -30,11 +30,13 @@ For example:
 
   save() { localStorage.setItem('tasks', JSON.stringify(this.#tasks)); }
 
-}\`
+}
+```
 
 Inheritance and Polymorphism come into play with the Factory pattern. Can define a base User class, then extend it for each role. Each subclass overrides a method like getPermissions() differently that's polymorphism. The factory doesn't care which subclass it's building; it just returns a User that responds to the same interface:
 
-\`class User {
+```js
+class User {
 
   constructor(name) { this.name = name; }
 
@@ -52,13 +54,15 @@ class Developer extends User {
 
   getPermissions() { return \['read', 'update'\]; }
 
-}\`
+}
+```
 
 The app calls user.getPermissions() regardless of the role it doesn't need to know whether it's dealing with an Admin or a Developer. That's the power of polymorphism.
 
 Abstraction is demonstrated through the Observer pattern. We define a general notification system where any object can subscribe to task changes without knowing the internal details of how tasks work. The task just calls notify(), and each observer decides how to respond:
 
-\`class Task {
+```js
+class Task {
 
   #observers = \[\];
 
@@ -72,13 +76,15 @@ Abstraction is demonstrated through the Observer pattern. We define a general no
 
   }
 
-}\`
+}
+```
 
 Observers don't reach into the task's internals; they receive a clean update call. That's abstraction at work.
 
 Composition over inheritance appears in the Decorator pattern. Instead of creating subclasses for every task variation (ReminderTask, TaggedTask, UrgentReminderTaggedTask...), we wrap a base task with decorators that add behavior:
 
-\`class ReminderDecorator {
+```js
+class ReminderDecorator {
 
   constructor(task, reminderDate) {
 
@@ -94,7 +100,8 @@ Composition over inheritance appears in the Decorator pattern. Instead of creati
 
   }
 
-}\`
+}
+```
 
 This avoids deep inheritance chains and lets you mix and match features flexibly.
 
